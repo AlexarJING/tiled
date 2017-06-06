@@ -1,12 +1,10 @@
-# Tiled Documentation
+# Tiled 文档
 
-Welcome to the documentation pages for [Tiled](http://www.mapeditor.org), a
-flexible tile map editor! Here you will find the
-[Tiled User Manual](#tiled-user-manual) and the
-[TMX Map Format](reference/tmx-map-format.md) reference.
+欢迎来到[Tiled](http://www.mapeditor.org)的文档页面, 它是一个灵活的瓦片地图编辑器! 在这里你可以看到
+[Tiled用户手册](#tiled-user-manual)以及
+[TMX地图数据格式](reference/tmx-map-format.md)参考.
 
-If you're not finding what you're looking for in these pages, please don't
-hesitate to ask questions on the [Tiled Forum](http://forum.mapeditor.org).
+如果你在这些页面中还是找不到你想要的信息, 请直接到[Tiled论坛](http://forum.mapeditor.org)进行提问.
 
 *This documentation is currently work-in-progress. Initially the relevant pages
 from the wiki have been ported over, providing a limited amount of
